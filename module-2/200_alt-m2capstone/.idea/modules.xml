@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/200_alt-m2capstone.iml" filepath="$PROJECT_DIR$/.idea/200_alt-m2capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review-final/java/m02-week-3-review-final.iml" filepath="$PROJECT_DIR$/review-final/java/m02-week-3-review-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puppy-application-finalFromLecture/client/m02d11-http-web-services-GET-lecture.iml" filepath="$PROJECT_DIR$/puppy-application-finalFromLecture/client/m02d11-http-web-services-GET-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puppy-application - finalAddedService/client/m02d11-http-web-services-GET-lecture (1).iml" filepath="$PROJECT_DIR$/puppy-application - finalAddedService/client/m02d11-http-web-services-GET-lecture (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/puppy-application-finalFromLecture/server/puppy-application.iml" filepath="$PROJECT_DIR$/puppy-application-finalFromLecture/server/puppy-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puppy-application - finalAddedService/server/puppy-application (1).iml" filepath="$PROJECT_DIR$/puppy-application - finalAddedService/server/puppy-application (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/puppy-foster-project - final/puppyApi.iml" filepath="$PROJECT_DIR$/puppy-foster-project - final/puppyApi.iml" />
+    </modules>
+  </component>
+</project>

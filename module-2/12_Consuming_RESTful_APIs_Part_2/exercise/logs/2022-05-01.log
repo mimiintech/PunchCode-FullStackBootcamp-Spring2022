@@ -1,0 +1,8 @@
+2022-05-01T21:47:02.826912 I/O error on GET request for "http://localhost:3000/auctions/": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-05-01T21:47:05.955967 I/O error on GET request for "http://localhost:3000/auctions/": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-05-01T21:47:16.469181 0 : Testing
+2022-05-01T21:47:16.502669 This is a ResourceAccessException
+2022-05-01T21:47:16.514849 This is a ResourceAccessException
+2022-05-01T21:47:16.522514 0 : Testing
+2022-05-01T21:47:16.53263 0 : Testing
+2022-05-01T21:47:16.546202 This is a ResourceAccessException

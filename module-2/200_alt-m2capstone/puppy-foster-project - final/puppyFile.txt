@@ -1,0 +1,4 @@
+1,Hobbs,17,male,Dachshund,true
+2,Olaf,113,male,Sheepdog,true
+3,Toby,90,male,Golden Retriever,true
+4,Pawla,50,female,Boxer,false

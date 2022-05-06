@@ -1,0 +1,6 @@
+2022-03-22T09:49:20.927017 I/O error on POST request for "http://localhost:8080/register": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-03-22T09:49:41.824757 I/O error on POST request for "http://localhost:8080/register": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-03-22T09:49:50.647565 I/O error on POST request for "http://localhost:8080/login": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-03-22T09:54:19.591857 I/O error on POST request for "http://localhost:8080/register": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)
+2022-03-22T10:03:25.373071 I/O error on POST request for "http://localhost:5432/register": Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+2022-03-22T11:32:52.934527 I/O error on POST request for "http://localhost:8080/register": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)

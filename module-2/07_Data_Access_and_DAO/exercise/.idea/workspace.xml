@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="701dfd1c-58b5-4815-9954-b0cd6df0293b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/.idea/final-capstone - ClassFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/controller/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/FeedbackDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/ForumDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/JdbcFeedbackDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/JdbcForumDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/UsersDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/exceptions/FeedbackNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/exceptions/ForumNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/Feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/Forum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21_capstone-v2/capstone/client/client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/database/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/database/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/database/tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/JdbcUsersDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/controller/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/controller/PuppiesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/JdbcUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/PuppyDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/PuppyJdbcDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/exceptions/PuppyNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/LoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/Puppy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/RegisterUserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/java/com/techelevator/model/UserAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PunchCode Cohort 1 2022 Capstone/final-capstone - ClassFinal/java/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/EmployeeProjects.sql" beforeDir="false" afterPath="$PROJECT_DIR$/database/EmployeeProjects.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/model/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/projects/model/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_19_20_Capstone/capstone/database/user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../21_capstone-v2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_55.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_55.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_55.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk16_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jdbc_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_data_spring_data_relational_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_test_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_tx_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/capstone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../21_capstone-v2/capstone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../21_capstone-v2/capstone/server/database/catcarddb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../21_capstone-v2/capstone/server/database/catcarddb.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26AaIcHfUxUTQ7aNZmE89hX3R9t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcDepartmentDaoTest and 2 more">
+    <configuration name="EmployeeProjectsCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.EmployeeProjectsCLI" />
+      <module name="dao-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcDepartmentDaoTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.BaseDaoTest" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.techelevator.projects.dao.JdbcDepartmentDaoTest" />
+        <pattern testClass="com.techelevator.projects.dao.JdbcEmployeeDaoTest" />
+        <pattern testClass="com.techelevator.projects.dao.JdbcProjectDaoTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcDepartmentDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcDepartmentDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcEmployeeDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcEmployeeDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcProjectDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.projects.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.projects.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.projects.dao.JdbcProjectDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcDepartmentDaoTest and 2 more" />
+        <item itemvalue="Application.EmployeeProjectsCLI" />
+        <item itemvalue="JUnit.JdbcEmployeeDaoTest" />
+        <item itemvalue="JUnit.JdbcDepartmentDaoTest" />
+        <item itemvalue="JUnit.JdbcProjectDaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="701dfd1c-58b5-4815-9954-b0cd6df0293b" name="Changes" comment="" />
+      <created>1646868773347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646868773347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+Bug 1
+-----
+Test that demonstrates problem:
+getTimesheetsByEmployeeId_returns_list_of_all_timesheets_for_employee
+Expected output:
+2
+Actual output:
+1
+How did you fix this bug?
+Fixed the bug by replacing the "if" to "while" since lists are meant to use "while".
+
+Bug 2
+-----
+Test that demonstrates problem:
+getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project()
+Expected output:
+3
+Actual output:
+2
+How did you fix this bug?
+I needed to change to project_id.
+
+Bug 3
+-----
+Test that demonstrates problem:
+updated_timesheet_has_expected_values_when_retrieved()
+Expected output:
+Test
+Actual output:
+1
+How did you fix this bug?
+There was an underlined assertion error at "Assert.assertEquals", and changed it from "Test" to the actual output of "1".
+
+Bug 4
+-----
+Test that demonstrates problem:
+getBillableHours_returns_correct_total()
+Expected output:
+0.0
+Actual output:
+2.0
+How did you fix this bug?
+There was an underlined assertion error at "Assert.assertEquals" since the expected value was "2".

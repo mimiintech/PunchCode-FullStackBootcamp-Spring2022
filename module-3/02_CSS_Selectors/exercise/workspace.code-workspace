@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../01_Intro_HTML_CSS/exercise"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercise"
+	}
+}

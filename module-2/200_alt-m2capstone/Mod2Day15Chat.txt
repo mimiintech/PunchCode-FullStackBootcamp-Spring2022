@@ -1,0 +1,82 @@
+08:57:26 From  David Siebold  to  Everyone:
+	Running a little behind this morning but I'm here! Camera will be off for a couple of minutes.
+08:57:30 From  David Siebold  to  Everyone:
+	Also good morning!
+08:57:43 From  Margaret Green (she/her)  to  Everyone:
+	Good morning and no worries! Thanks for the heads up!
+09:00:25 From  Dan Schnelzer  to  Everyone:
+	love when its review day
+09:12:41 From  Rigel Richardson  to  Everyone:
+	so for searching, not retrieval. That one got me!
+09:13:14 From  Alida Smith  to  Everyone:
+	me too.
+09:13:44 From  Alida Smith  to  Everyone:
+	i would have searched an id and retrieved a title.
+09:17:11 From  Sam Stauffer  to  Everyone:
+	This one got me good.  I thought just @Valid...
+09:18:25 From  Levi Wolfe  to  Everyone:
+	1 DAY MORE!
+09:18:42 From  Tyler Moloney  to  Everyone:
+	I just watched that for the first time like 2 weeks ago
+09:19:08 From  Levi Wolfe  to  Everyone:
+	Such good music
+09:23:39 From  Alida Smith  to  Everyone:
+	it sooo MATTERED
+09:23:44 From  Ashley Hoffmann  to  Everyone:
+	Me too, Rebecca!
+09:23:50 From  Rigel Richardson  to  Everyone:
+	I wondered if it was just the test format
+09:26:25 From  Gabe Humphreys  to  Everyone:
+	I follow TDD principles by looking at the homework tests and writing my code accordingly   🤣
+09:26:45 From  James Bowen  to  Everyone:
+	lol Same Gabe
+09:26:49 From  Levi Wolfe  to  Everyone:
+	haha same
+09:28:05 From  Rebecca Palmore  to  Everyone:
+	I read about dependency injection because I didn’t know we had already read that!
+09:44:17 From  Daniel Blackman (He/Him)  to  Everyone:
+	mine is red too
+10:21:20 From  Levi Wolfe  to  Everyone:
+	Puppy application is the type of application I want to be filling out toward the end of the cohort
+10:23:25 From  Rigel Richardson  to  Everyone:
+	Change you LinkedIn: I am seeking a new role as a Puppy Manager
+10:23:36 From  Levi Wolfe  to  Everyone:
+	haha don't tempt me
+10:23:52 From  Sam Stauffer  to  Everyone:
+	neo-pup
+11:18:00 From  Gabe Humphreys  to  Everyone:
+	Q: What do puppies make?	A: puupy!
+11:26:32 From  Sam Stauffer  to  Everyone:
+	is Puppy capitalized?
+11:27:55 From  Levi Wolfe  to  Everyone:
+	Yeah. in other options its asking if I want to create a Puppy class. But it exists... haha
+11:32:03 From  Alida Smith  to  Everyone:
+	There is a God!
+11:38:16 From  Gabe Humphreys  to  Everyone:
+	DELETE A PUPPY?!?!
+11:38:19 From  Ryan Goodchild  to  Everyone:
+	puppies aren't deleted they're adopted!
+11:43:24 From  Daniel Blackman (He/Him)  to  Everyone:
+	pluto
+11:44:04 From  Dan Schnelzer  to  Everyone:
+	denied
+11:44:08 From  Sam Stauffer  to  Everyone:
+	Joe, still looking for a partner.
+11:44:29 From  Joe Righetti  to  Everyone:
+	😓
+11:49:17 From  Daniel Blackman (He/Him)  to  Everyone:
+	capstone.setPartner(Joe)
+11:50:30 From  David Siebold  to  Everyone:
+	I'm starting to take it personally that Joe doesn't want to be ANY of our partners.
+11:51:35 From  Dan Schnelzer  to  Everyone:
+	Select partners FROM Joe WHERE capstone=2..... returns 22
+11:51:47 From  Joe Righetti  to  Everyone:
+	I have a feeling I'm going  to be very busy next week...
+11:52:17 From  Joe Righetti  to  Everyone:
+	joe-a-turn.com
+11:52:38 From  Sam Stauffer  to  Everyone:
+	I'll have take-a-Joe for 500 alex.
+11:52:45 From  Alida Smith  to  Everyone:
+	so glad we have another review
+11:52:51 From  Ryan Goodchild  to  Everyone:
+	^
